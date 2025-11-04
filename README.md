@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **dotnet, spring**
 
-- 👨‍💻 All of my projects are available at ([https://topuportfolio.onrender.com/](https://www.nikatopu.dev/))
+- 👨‍💻 All of my projects are available at ([https://www.nikatopu.dev/](https://www.nikatopu.dev/))
 
 - 📫 How to reach me **nikatopu@gmail.com**
 
