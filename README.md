@@ -10,7 +10,7 @@
 ### About me
 
 - Frontend developer working professionally with **Next.js** and **TypeScript**
-- Building full-stack projects using **React**, **Node.js**, and **MongoDB**
+- Building full-stack projects using **React**, **Node.js**, and **PostgreSQL** (or Prisma)
 - Experience delivering real client projects (websites, admin panels, interactive apps)
 - Long-term goal: **Team Lead Full-Stack Developer with DevOps skills**
 
