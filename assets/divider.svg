@@ -1,0 +1,28 @@
+<svg width="900" height="24" viewBox="0 0 900 24" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ll" x1="0%" x2="100%">
+      <stop offset="0%" stop-color="#0b1221" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="lr" x1="0%" x2="100%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#0b1221" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <!-- Left line -->
+  <rect x="0" y="11" height="2" fill="url(#ll)" rx="1">
+    <animate attributeName="width" from="0" to="430" dur="0.75s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <!-- Diamond outline -->
+  <polygon points="450,6 463,12 450,18 437,12" fill="#0b1221" stroke="#22d3ee" stroke-width="1.5" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.55s" dur="0.3s" fill="freeze"/>
+  </polygon>
+  <!-- Diamond fill -->
+  <polygon points="450,8 461,12 450,16 439,12" fill="#22d3ee" opacity="0">
+    <animate attributeName="opacity" from="0" to="0.85" begin="0.65s" dur="0.25s" fill="freeze"/>
+  </polygon>
+  <!-- Right line -->
+  <rect x="470" y="11" height="2" fill="url(#lr)" rx="1">
+    <animate attributeName="width" from="0" to="430" begin="0.55s" dur="0.75s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+</svg>
