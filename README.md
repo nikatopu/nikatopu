@@ -40,8 +40,8 @@
 ```
 
 <br/>
-
-<div align="center"><img src="./assets/skills.svg" width="100%" alt="Skills overview"/></div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikatopu&layout=compact&bg_color=0b1221&title_color=22d3ee&text_color=94a3b8&border_color=1e3a5f&border_radius=12&langs_count=8" width="480" alt="Top Languages"/></div>
 
 <br/>
 
@@ -163,14 +163,10 @@ Automated API doc generator for ASP.NET Core — paste a repo URL, get TypeScrip
 <img src="https://github-readme-stats.vercel.app/api?username=nikatopu&show_icons=true&bg_color=0b1221&title_color=22d3ee&icon_color=2dd4bf&text_color=94a3b8&border_color=1e3a5f&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </td>
 <td valign="top">
-<img src="https://streak-stats.demolab.com?user=nikatopu&background=0b1221&ring=22d3ee&fire=fbbf24&currStreakLabel=22d3ee&sideLabels=2dd4bf&dates=94a3b8&border=1e3a5f&border_radius=12" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=nikatopu&theme=dark&border_radius=12&short_numbers=true&mode=weekly&background=0B1221&ring=22D3EE&fire=FBBF24&currStreakNum=22D3EE&sideLabels=2DD4BF&dates=94A3B8&border=1E3A5F" alt="GitHub Streak" />
 </td>
 </tr>
 </table>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikatopu&layout=compact&bg_color=0b1221&title_color=22d3ee&text_color=94a3b8&border_color=1e3a5f&border_radius=12&langs_count=8" width="480" alt="Top Languages"/>
 
 <br/><br/>
 
