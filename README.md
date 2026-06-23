@@ -128,16 +128,16 @@ High-performance **particle engine** — QuadTree spatial optimization, image ca
 <tr>
 <td width="50%" valign="top">
 
-**[Universal Platform Backend](https://github.com/nikatopu/universal-platform-backend)**
+### [Universal Platform Backend](https://github.com/nikatopu/universal-platform-backend)
 
-A reusable REST API backend built with NestJS, Prisma and Supabase PostgreSQL.
+Initially developed as the backend for FitReserve - a Fitness Studio Booking Platform, but architected to support multiple verticals through `project_id` and `company_id` scoping.
 
 <sub>![NestJS](https://img.shields.io/badge/NestJS-0b1221?style=flat-square&logo=nestjs&logoColor=94a3b8) ![Prisma](https://img.shields.io/badge/Prisma-0b1221?style=flat-square&logo=prisma&logoColor=94a3b8) ![Supabase](https://img.shields.io/badge/Supabase-0b1221?style=flat-square&logo=supabase&logoColor=94a3b8)</sub>
 
 </td>
 <td width="50%" valign="top">
 
-**[Driftless](https://github.com/nikatopu/product-development-team-localhost-3000)** &nbsp;<sub>Tech Lead · CS-PD-2026 · [driftless.nikatopu.dev](https://driftless.nikatopu.dev)</sub>
+### [Driftless](https://github.com/nikatopu/product-development-team-localhost-3000) &nbsp;<sub>Tech Lead · CS-PD-2026 · [driftless.nikatopu.dev](https://driftless.nikatopu.dev)</sub>
 
 Automated API doc generator for ASP.NET Core — paste a repo URL, get TypeScript interfaces and OpenAPI JSON out. Uses **Roslyn** + **LibGit2Sharp** to parse the live codebase with no config. Built with a team of 4, shipped as a live MVP with a design-partner MOU signed.
 
