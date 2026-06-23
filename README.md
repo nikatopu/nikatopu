@@ -128,11 +128,11 @@ High-performance **particle engine** — QuadTree spatial optimization, image ca
 <tr>
 <td width="50%" valign="top">
 
-**[Local Chat Protocol](https://github.com/nikatopu/local-chat-protocol)**
+**[Universal Platform Backend]([https://github.com/nikatopu/local-chat-protocol](https://github.com/nikatopu/universal-platform-backend))**
 
-Custom application-layer protocol — UDP service discovery, TCP messaging, handshaking, and a written spec.
+A reusable REST API backend built with NestJS, Prisma and Supabase PostgreSQL.
 
-<sub>![Java](https://img.shields.io/badge/Java-0b1221?style=flat-square&logo=openjdk&logoColor=94a3b8) ![Networking](https://img.shields.io/badge/Networking-0b1221?style=flat-square&logoColor=2dd4bf) ![Protocol Design](https://img.shields.io/badge/Protocol_Design-0b1221?style=flat-square&logoColor=fbbf24)</sub>
+<sub>![NestJS](https://img.shields.io/badge/NestJS-0b1221?style=flat-square&logo=NestJS&logoColor=94a3b8) ![Prisma](https://img.shields.io/badge/Prisma-0b1221?style=flat-square&logo=Prisma&logoColor=94a3b8) ![Supabase](https://img.shields.io/badge/Supabase-0b1221?style=flat-square&logo=Supabase&logoColor=94a3b8)</sub>
 
 </td>
 <td width="50%" valign="top">
