@@ -128,11 +128,11 @@ High-performance **particle engine** — QuadTree spatial optimization, image ca
 <tr>
 <td width="50%" valign="top">
 
-**[Universal Platform Backend]([https://github.com/nikatopu/local-chat-protocol](https://github.com/nikatopu/universal-platform-backend))**
+**[Universal Platform Backend](https://github.com/nikatopu/universal-platform-backend)**
 
 A reusable REST API backend built with NestJS, Prisma and Supabase PostgreSQL.
 
-<sub>![NestJS](https://img.shields.io/badge/NestJS-0b1221?style=flat-square&logo=NestJS&logoColor=94a3b8) ![Prisma](https://img.shields.io/badge/Prisma-0b1221?style=flat-square&logo=Prisma&logoColor=94a3b8) ![Supabase](https://img.shields.io/badge/Supabase-0b1221?style=flat-square&logo=Supabase&logoColor=94a3b8)</sub>
+<sub>![NestJS](https://img.shields.io/badge/NestJS-0b1221?style=flat-square&logo=nestjs&logoColor=94a3b8) ![Prisma](https://img.shields.io/badge/Prisma-0b1221?style=flat-square&logo=prisma&logoColor=94a3b8) ![Supabase](https://img.shields.io/badge/Supabase-0b1221?style=flat-square&logo=supabase&logoColor=94a3b8)</sub>
 
 </td>
 <td width="50%" valign="top">
